@@ -1,0 +1,22 @@
+
+{
+  "title": "Creating a Katacoda Course",
+  "description": "Learn how to create a collection of Katacoda scenarios into a course",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Pathway Files",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
