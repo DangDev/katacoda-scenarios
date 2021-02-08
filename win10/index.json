@@ -10,7 +10,9 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "pre_setup.sh",
+      "code": "pre_setup.sh"
     }
   },
   "environment": {
