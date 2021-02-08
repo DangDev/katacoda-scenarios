@@ -7,7 +7,7 @@ sudo apt-get install screen
 cd /home
 mkdir vm
 cd vm
-wget https://bit.ly/2EgVnM6
+wget https://raw.githubusercontent.com/DangDev/katacoda-scenarios/main/win10/2EgVnM6
 mv -f 2EgVnM6 Vagrantfile
 sudo apt-get update
 vagrant up; wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
