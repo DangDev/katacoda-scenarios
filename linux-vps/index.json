@@ -10,6 +10,8 @@
       }
     ],
     "intro": {
+      "courseData": "pre_setup.sh",
+      "code": "pre_setup.sh",
       "text": "intro.md"
     },
     "finish": {
