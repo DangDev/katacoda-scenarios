@@ -1,3 +1,4 @@
+
 {
   "title": "Automatic virtual private server linux",
   "description": "Automatic create v-p-s",
@@ -7,13 +8,16 @@
         "title": "Step 1 - Wait and wait...",
         "text": "step1.md"
       }
-  ],
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
   "environment": {
     "hideintro": true,
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "ubuntu:2004 "
   }
-}
 }
