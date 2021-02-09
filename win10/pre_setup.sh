@@ -10,7 +10,7 @@ cd vm
 mkdir W10
 cd W10
 clear
-wget -O W10.vhd https://app.vagrantup.com/thuonghai2711/boxes/W2012DevBox/versions/1.0.0/providers/virtualboxw10.box
+curl -O W10.vhd https://app.vagrantup.com/thuonghai2711/boxes/W2012DevBox/versions/1.0.0/providers/virtualboxw10.box
 clear
 VBoxManage createvm --name W10 --ostype Windows10_64 --register --basefolder `pwd` 
 VBoxManage modifyvm W10 --ioapic on 
