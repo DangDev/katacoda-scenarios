@@ -6,7 +6,7 @@
     "steps": [
       {
         "title": "Step 1 - Wait for install",
-        "text": "step1.md"
+        "text": "step.md"
       }
     ],
     "intro": {
