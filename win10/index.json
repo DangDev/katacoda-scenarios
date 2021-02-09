@@ -1,11 +1,11 @@
 
 {
-  "title": "Creating a Katacoda Course",
-  "description": "Learn how to create a collection of Katacoda scenarios into a course",
+  "title": "Create a Virtual machine",
+  "description": "Learn how to create a Virtual machine",
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Pathway Files",
+        "title": "Step 1 - Wait for install",
         "text": "step1.md"
       }
     ],
