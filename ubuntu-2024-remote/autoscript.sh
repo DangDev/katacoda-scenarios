@@ -1,6 +1,6 @@
 sudo useradd -m TinCowBoy
 sudo adduser TinCowBoy sudo
-cho 'TinCowBoy:48694869' | sudo chpasswd
+echo 'TinCowBoy:48694869' | sudo chpasswd
 sudo apt update
 sudo apt install xfce4
 udo chmod 777 /home/TinCowBoy/
