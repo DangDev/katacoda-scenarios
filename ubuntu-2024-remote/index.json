@@ -1,0 +1,22 @@
+{
+  "title": "Ubuntu 20.04 Instance Remote",
+  "description": "Wait 3-4min to get free Ubuntu 20.24 Desktop",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
