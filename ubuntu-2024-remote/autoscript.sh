@@ -2,7 +2,7 @@ sudo useradd -m TinCowBoy
 sudo adduser TinCowBoy sudo
 echo 'TinCowBoy:48694869' | sudo chpasswd
 sudo apt update
-sudo apt install xfce4
+sudo apt install xfce4 -y
 udo chmod 777 /home/TinCowBoy/
 echo xfce4-session >/home/TinCowBoy/.xsession
 sudo apt install xrdp -y
